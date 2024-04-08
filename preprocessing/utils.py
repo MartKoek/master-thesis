@@ -1,16 +1,5 @@
 import os
-
 import pandas as pd
-
-
-# import csv
-# from pydub import AudioSegment
-# from constants import RECORDINGS_PATH_TRAIN, OUTPUT_DIR_TRAIN
-#
-#
-# # Add de audio extract
-# class PreprocessAudio:
-#     pass
 
 def rename_file(old_path, new_name):
     try:
