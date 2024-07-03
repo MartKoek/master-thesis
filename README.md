@@ -7,6 +7,9 @@ Mental health illnesses cause significant suffering for individuals, their famil
 ### Pipeline of proposed approach
 ![pipeline_research](https://github.com/MartKoek/master-thesis/assets/59614066/a5890e80-6e69-4def-badb-2298b0356ea2)
 
+### DAIC-WOZ
+This research project uses data from the DAIC-WOZ. For replicating the results of this study, apply to get access to the data [DAIC-WOZ](https://dcapswoz.ict.usc.edu/).
+
 ### Architecture of models
 Three unimodal audio models, one unimodal text model, and one bimodal audio-text model can be constructed with the following architecture:
 ![unimodal_pipeline](https://github.com/MartKoek/master-thesis/assets/59614066/b2138f82-180d-4367-906c-9cf77fc0dc48)
