@@ -23,4 +23,5 @@ Three bimodal audio-text models can be constructed with the following architectu
 ### Organisation of this repository
 * The folder preprocessing contains files to prepare the data for the experimentation;
 * The folder 7fold_cv contains files to optimize models on the (training + development set) of the DAIC-WOZ;
-* The folder evaluation contains files to test the models on the test set of the DAIC-WOZ;
+* The folder test_set_performance contains files to test the models on the test set of the DAIC-WOZ;
+* The folder evaluation contains additional files for evaluating the models on the data.
