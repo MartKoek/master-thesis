@@ -18,6 +18,6 @@ Three bimodal audio-text models can be constructed with the following architectu
 ![df](https://github.com/MartKoek/master-thesis/assets/59614066/d95ecef2-6a45-4b7e-b38a-16baa2ddb010)
 
 ### Organisation of this repository
-The folder preprocessing contains files to prepare the data for the experimentation;
-The folder 7fold_cv contains files to optimize models on the (training + development set) of the DAIC-WOZ;
-The folder evaluation contains files to test the models on the test set of the DAIC-WOZ;
+* The folder preprocessing contains files to prepare the data for the experimentation;
+* The folder 7fold_cv contains files to optimize models on the (training + development set) of the DAIC-WOZ;
+* The folder evaluation contains files to test the models on the test set of the DAIC-WOZ;
